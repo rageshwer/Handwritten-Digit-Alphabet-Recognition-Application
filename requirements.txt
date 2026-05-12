@@ -1,5 +1,5 @@
+streamlit
+tensorflow
+opencv-python-headless
 numpy
 pandas
-tensorflow
-streamlit
-opencv-python
